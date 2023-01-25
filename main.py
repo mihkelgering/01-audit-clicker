@@ -21,7 +21,7 @@ if not is_config_valid(config):
 
 # Checking if the path exists.
 if not os.path.exists(config["chromedriver_path"]):
-    print("Path does not exist")
+    print("Cannot find chromedriver path")
     exit()
 
 # Starting the driver.
