@@ -2,7 +2,7 @@
 You will be able to submit audits in the 01-edu platform much more quickly and smoothly with this project.
 
 ## Installation
-[Link text Here](https://link-url-here.org)
+
 1. You will need to install [python](https://www.python.org/downloads/) and [ChromeDriver](https://chromedriver.chromium.org/downloads)
 NB! ChromeDriver must have same version as your chrome browser. 
 
